@@ -1,0 +1,6 @@
+.DS_Store
+docstutorial
+
+my-first-docs/docs/_build
+my-first-docs/docs/_static
+my-first-docs/docs/_templates
