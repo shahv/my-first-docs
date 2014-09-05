@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   all-about-me
    another-file
+   all-about-me
 
 Indices and tables
 ==================
