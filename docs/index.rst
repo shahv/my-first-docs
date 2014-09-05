@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    all-about-me
+   another-file
 
 Indices and tables
 ==================
